@@ -1,0 +1,36 @@
+package sample.person;
+
+public class Test {
+
+	public static void main(String[] args) {
+			Person taro=new Person();
+		taro.name="山田　太郎";
+		taro.age=20;
+
+			System.out.println(taro.name);
+			System.out.println(taro.age);
+			
+			Person kimura=new Person();
+		kimura.name="木村　次郎";
+		kimura.age=18;
+		
+			System.out.println(kimura.name+kimura.age);
+			
+			Person suzuki=new Person();
+			
+		suzuki.name="鈴木　花子";
+		suzuki.age=16;
+		
+			System.out.println(suzuki.name+suzuki.age);
+			
+			Person yojo=new Person();
+			
+		yojo.name="四條　慎平";
+		yojo.age=25;
+		
+			System.out.println(yojo.name+yojo.age);
+			
+
+		}
+
+}
