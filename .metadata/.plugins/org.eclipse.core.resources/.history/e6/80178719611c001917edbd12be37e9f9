@@ -1,0 +1,11 @@
+package keisyou;
+
+public class Android {
+
+	public static void main(String[] args) {
+		SmartPhone android=new SmartPhone();
+
+		System.out.println(andoroid.play);
+	}
+
+}
