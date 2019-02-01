@@ -14,13 +14,11 @@ public class HelloServlet extends HttpServlet {
         super();
     }
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		request.setCharacterEncoding("UTF-8");
-		response.setContentType("text/html; charset=UTF-8");
-		String username=request.getParameter("username");
-
-		System.out.println(username);
-
 		PrintWriter out=response.getWriter();
-		out.println("<html><head></head><body><br>"+username+"さん、ようこそ！</body></html>");
+		out.println("<HTML>");
+		out.println("<BODY>");
+		out.println("<H3>Hello Servlet!<H3>");
+		out.println("</BODY>");
+		out.println("</HTML>");
 	}
 }
