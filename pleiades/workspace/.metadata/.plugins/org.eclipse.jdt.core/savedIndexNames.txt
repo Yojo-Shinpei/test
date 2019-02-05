@@ -1,0 +1,20 @@
+INDEX VERSION 1.127+C:\Users\nokoT\Downloads\pleiades\workspace\.metadata\.plugins\org.eclipse.jdt.core
+1839212833.index
+3894972550.index
+429841334.index
+1074815724.index
+3271193799.index
+2218791585.index
+4186324028.index
+2947623371.index
+2814840573.index
+411809864.index
+1538680024.index
+3256727757.index
+3529671201.index
+2762257337.index
+175207042.index
+926685867.index
+516909858.index
+3989535761.index
+4078913687.index

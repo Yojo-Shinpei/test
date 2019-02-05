@@ -1,0 +1,172 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.6
+Bundle-SymbolicName: jp.sourceforge.mergedoc.pleiades;singleton:=true
+Bundle-Name: Pleiades
+Bundle-Version: 1.6.6
+Bundle-Localization: plugin
+Bundle-ManifestVersion: 2
+Bundle-Vendor: MergeDoc Project
+Created-By: 1.8.0_74-b02 (Oracle Corporation)
+
+Name: about.properties
+SHA-256-Digest: D0r4z/CdJNnLEB+IgHR3JDE9IAxqi/enwAnf+S+Lr6c=
+
+Name: conf/props/translation-BSD.properties
+SHA-256-Digest: o5faMz0AsxE7GrefQPQZBmD48qvX0ISVntvCQdfAvTg=
+
+Name: conf/props/validation-term.properties
+SHA-256-Digest: n4c/x57cdqMaJL4slExTOnF+qfm1FFQ0n4MibYGSkEo=
+
+Name: plugin.xml
+SHA-256-Digest: X2xpJPr574UnjdL5ojjEgGtto0xEFP31JAsFVC6AIsY=
+
+Name: conf/splash3.5.bmp
+SHA-256-Digest: AKY/oQmHiCd1Z6DR4WMvN/uIdhMfsioHXQSHokR6UOc=
+
+Name: conf/pleiades-config.xml
+SHA-256-Digest: zIThelqY7CSSJEC2xIav69PBsgp4gBIjTSEYEQcHRAY=
+
+Name: lib/javassist/javassist.jar
+SHA-256-Digest: 12kQYvt3nCOBZAyPcqy6LCOHOwHCQ4ZtQcFdxMiEjqI=
+
+Name: conf/props/translation-OTHER.properties
+SHA-256-Digest: 11MsvkmmpEIuFra8iW7rI9uGJcz3LVgPbUfZnE62ob0=
+
+Name: conf/splash.bmp
+SHA-256-Digest: 1t/G8MkifIqsbeBccq/Iuxu2dQDupCPf/27kBz0sBtk=
+
+Name: conf/translation-exclude-package.properties
+SHA-256-Digest: yiBgLoRm0wzMnoMJ7nb2P5ZswVfQ6auMHwdILZjJGQo=
+
+Name: conf/splash4.2.bmp
+SHA-256-Digest: MargX9pgl93CbfBfjHaqBu7n4ETE+h8BwZ/qia5KCg8=
+
+Name: conf/splash3.6.bmp
+SHA-256-Digest: VfK1M2pWKqQoLFQ46CehZqqK+7pD10KMT8pvTWNo78o=
+
+Name: conf/.marker
+SHA-256-Digest: oFfJY0My7Y6u+7/5Rgjg5fJrj2SvMrW0kSEbqzEC6P4=
+
+Name: icons/preferences.png
+SHA-256-Digest: BSlnNEzbBO9q3w2aLcr8vYSvYkm6UOXYoyLl9z450gE=
+
+Name: conf/splash3.4.bmp
+SHA-256-Digest: kE36SQ54wOYUMMDQ7pHtTbgScrIG27hb5H9844QMV9Y=
+
+Name: conf/translation-converter_sample.properties
+SHA-256-Digest: xWIt0Cfz2g+mGyzvlODPWAxlCPbFtCLx/d0p71TEzZw=
+
+Name: about.ini
+SHA-256-Digest: PlxWLgEJkSOtv4b32uqUn1TD75bh8NXUrCyszKYj48U=
+
+Name: conf/splash3.7.bmp
+SHA-256-Digest: Q+OSrjr36niPWJpCVTXkIBMsxZNnjqCrCGbHeMmdQF0=
+
+Name: plugin.properties
+SHA-256-Digest: Bg2pRU9YWgVQEQqVZJEeZ9JIi2lXPOGHrTfOOfJKASQ=
+
+Name: pleiades.jar
+SHA-256-Digest: SWIecoQcWBO/xoJtVs718fJ9whE2ueGrPpGHArmZFDU=
+
+Name: conf/splash3.3.bmp
+SHA-256-Digest: Y1lJZ4veaTISU8pEw4rFXnYoJnzq+q+HL9/LKZlDl9I=
+
+Name: conf/splash.png
+SHA-256-Digest: Ds4W4eHKOUb3b/SLO9NVecdXVrjB4GlVUMgFK4QQPwo=
+
+Name: lib/javassist/License.html
+SHA-256-Digest: TLL1qWJCKoOFtD9JYZBa+bhU5hk3BXCg5hwfkCEK7jo=
+
+Name: conf/translation-help-unchecked.properties
+SHA-256-Digest: euFBiFGk0QVP05g6QgCneLW6r4nsW/GFk/8P5VTMA1k=
+
+Name: conf/translation-regex.properties
+SHA-256-Digest: kuX8qiWT1yLyfTM9va7Shz1UQYDrEx4SkqCu//J+htk=
+
+Name: conf/translation-regex-through.properties
+SHA-256-Digest: 5XxJa0Wa74YIiIQ/M9VEqf9Mgz9yfIaTSnwqi1LGViI=
+
+Name: conf/translation-multibytes-key.properties
+SHA-256-Digest: E/1XqLTgzpcllZuCpufA7LCKGJrwvqB4Cv5780QhOJo=
+
+Name: conf/props/translation-ASF.properties
+SHA-256-Digest: GKqO0iY5kr7Geuy3FEgGLjyjeAPV91ZPQ8s9imXPIj0=
+
+Name: conf/splash4.4.bmp
+SHA-256-Digest: 6GzlqROFhcwk5ry2bBnCxSbQfoiR7CN4M6oG4qQGltA=
+
+Name: lib/apache/commons-lang-version-2.4
+SHA-256-Digest: 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+
+Name: lib/apache/commons-io-version-1.4
+SHA-256-Digest: 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+
+Name: lib/apache/LICENSE.txt
+SHA-256-Digest: 8v+llCsxaEm+KD3q6ykS4uW1sX6RASvt6CECEP8+kec=
+
+Name: conf/props/validation-ignore.properties
+SHA-256-Digest: ds0AFY/1jtXM0BFJ5p0WiqTxuCVHiA2pRDbbDZvQdkE=
+
+Name: conf/additions/_readme.txt
+SHA-256-Digest: 7U9DFAbM/xzr8T6kNPsSv1AOSiyg1XXsDNKTZTGi9g4=
+
+Name: epl-v10.html
+SHA-256-Digest: T9ZK7tNA1ipkqNpLNx7+D20NdF9NLb76y6hsZG02vHI=
+
+Name: conf/splash_clean.png
+SHA-256-Digest: 27soK7dkqjIiP8K9otvBLkyz71GlaBH0Qu5JXZxoHNg=
+
+Name: conf/splash4.3.bmp
+SHA-256-Digest: bKb4fziNPe8/Rw0FQ+chiilEJqb9dq6GZ82rpp6y7vY=
+
+Name: conf/props/translation-LGPL.properties
+SHA-256-Digest: vdVUYCssoJOPl4mk6U60pbPcZ7JT1KvPDCTA/gD1t70=
+
+Name: lib/apache/commons-lang.jar
+SHA-256-Digest: LHO5QMkSULyYNGkmJw8TpqELtuKdLJMWpw0TTjgshz4=
+
+Name: conf/props/translation-GPL.properties
+SHA-256-Digest: U9YLOqS7tU3qFRDY1L6IXeKc6OyY4CeNdCqYlU4PCiI=
+
+Name: conf/props/validation-translation-reverse.properties
+SHA-256-Digest: p1/jRVu1Y65OMHA5EC2mWKKG6nzkL4tHds1azGpN8UA=
+
+Name: conf/props/translation-OTNL.properties
+SHA-256-Digest: ig5GWf3Bi0NdsWSfoJwLiFLMrcHgTbpfYfWjpYLLtaw=
+
+Name: conf/props/validation-forbidden-translation.properties
+SHA-256-Digest: l9r/2rji+XB5JLZR6lxgMP2kplAGVQccJZwLABEwmVo=
+
+Name: conf/props/translation-EPL.properties
+SHA-256-Digest: IFhqTdiwUvxwMSDlvB5DIh7a8wGmBWoWLZDd3xBhDPA=
+
+Name: conf/translation-help-exclude.properties
+SHA-256-Digest: lk4njTVaijhIRhlrCzbuh1BtUgkT4Hsy404BEy9teDw=
+
+Name: lib/apache/commons-io.jar
+SHA-256-Digest: p/cTWTAHgTvwfRm9Hfn4HIbAcZ6aC7LvG5i3gxP8lA0=
+
+Name: conf/translation-notfound-exclud.list
+SHA-256-Digest: rZKNavZpaozlcsNny6yUX4PS68IeltaRCBZF87xAHGM=
+
+Name: lib/javassist/javassist-version-3.20.0-GA
+SHA-256-Digest: 47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+
+Name: about.html
+SHA-256-Digest: lRRzbDVQ05osyDWFtNT78AU1Hkxtzh1y1R96e/hKh3M=
+
+Name: featureImage.png
+SHA-256-Digest: UP22DlznGeV75WB2lB4IDPTMY3QjogUjH5m1u/XfEXg=
+
+Name: conf/splash4.5.bmp
+SHA-256-Digest: uBXzdEBXWVVo6ljjTumA8/eoo0YdFPf8ViHLVMyjHQA=
+
+Name: conf/translation.properties
+SHA-256-Digest: PgE6YJQlwmuFDTcZAaY2L4LNmTXzIgp8FpwQpC8RVbc=
+
+Name: conf/props/validation-translation.properties
+SHA-256-Digest: Ac7LCFF50fLqHDj2zw0nXVxtVVxwwZ9RmL2WJdCr/KM=
+
+Name: conf/props/translation-MPL.properties
+SHA-256-Digest: tHGS7WAU2TTacq5AVQVCye+RcNODSDtbkOyl/gL4WhM=
+
