@@ -1,8 +1,8 @@
 set names utf8;
 set foreign_key_checks = 0;
-drop datadase if exists logindb;
-create database logindb;
-use logindb;
+drop datadase if exists logindb_yojo;
+create database logindb_yojo;
+use logindb_yojo;
 
 create table user(
 id int,

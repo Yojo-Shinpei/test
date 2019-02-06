@@ -17,7 +17,7 @@ public class InquiryServlet extends HttpServlet {
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		request.setCharacterEncoding("UTF-8");
-		response.setContentType("text/html; charaset=UTF-8");
+		response.setContentType("text/html; charset=UTF-8");
 		String name=request.getParameter("name");
 
 		System.out.println(name);

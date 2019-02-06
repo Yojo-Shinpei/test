@@ -14,7 +14,7 @@ public class DBConnector {
 		Connection con=null;
 
 		try{
-			class.forName(driverName);
+			Class.forName(driverName);
 			con=(Connection)DriverManager.getConnection(url,user,password);
 		}catch(ClassNotFoundException e){
 			e.printStackTrace();
