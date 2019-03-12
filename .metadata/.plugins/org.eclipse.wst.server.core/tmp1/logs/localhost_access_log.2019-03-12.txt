@@ -1,0 +1,16 @@
+127.0.0.1 - - [12/Mar/2019:21:14:51 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:21:14:53 +0900] "GET /Webproj5/ HTTP/1.1" 200 2197
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:21:14:58 +0900] "POST /Webproj5/HelloStrutsAction.action;jsessionid=C2BBE40AC80F909DED8877C335F43F78 HTTP/1.1" 200 613
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:21:15:01 +0900] "GET /Webproj5/WelcomeAction HTTP/1.1" 200 869
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:21:15:07 +0900] "POST /Webproj5/LoginAction.action HTTP/1.1" 200 297
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:21:15:11 +0900] "POST /Webproj5/InquiryAction.action;jsessionid=C2BBE40AC80F909DED8877C335F43F78 HTTP/1.1" 200 958
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:21:15:18 +0900] "POST /Webproj5/InquiryCompleteAction.action HTTP/1.1" 200 483
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:21:15:18 +0900] "GET /Webproj5/css/style.css HTTP/1.1" 404 1063
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:21:15:22 +0900] "POST /Webproj5/InquiryCompleteAction.action HTTP/1.1" 200 600
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:21:15:22 +0900] "GET /Webproj5/css/style.css HTTP/1.1" 404 1063
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:21:15:29 +0900] "POST /Webproj5/InquiryCompleteAction.action HTTP/1.1" 200 735
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:21:15:29 +0900] "GET /Webproj5/css/style.css HTTP/1.1" 404 1063
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:21:15:41 +0900] "GET /Webproj5/TestAction.action;jsessionid=C2BBE40AC80F909DED8877C335F43F78?username=test&password=123 HTTP/1.1" 200 403
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:21:15:41 +0900] "GET /Webproj5/css/style.css HTTP/1.1" 404 1063
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:21:15:49 +0900] "POST /Webproj5/TestAction.action;jsessionid=C2BBE40AC80F909DED8877C335F43F78 HTTP/1.1" 200 405
+0:0:0:0:0:0:0:1 - - [12/Mar/2019:21:15:49 +0900] "GET /Webproj5/css/style.css HTTP/1.1" 404 1063
