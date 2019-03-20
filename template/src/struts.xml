@@ -28,5 +28,7 @@
 <result name="success">userCreateConfirm.jsp</result>
 <result name="error">userCreate.jsp</result>
 </action>
+
+
 	</package>
 </struts>
