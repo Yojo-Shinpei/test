@@ -85,7 +85,7 @@
 					<tr>
 						<td>購入個数</td>
 						<td>
-							<s:property value="session,total_count" />
+							<s:property value="session.total_count" />
 								<span>個</span>
 						</td>
 					</tr>
@@ -94,7 +94,7 @@
 						<td><s:property value="session.total_payment" /></td>
 					</tr>
 				</table>
-				<s:form action="myPageAction">
+				<s:form action="MyPageAction">
 					<input type="hidden" name="deleteFlg" value="1">
 					<s:submit value="削除" method="delete" />
 				</s:form>
